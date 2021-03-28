@@ -1,6 +1,6 @@
 {
-    "name": "react-portfolio",
-    "short_name": "portfolio",
+    "name": "React-Portfolio",
+    "short_name": "Portfolio",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
